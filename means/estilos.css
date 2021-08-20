@@ -13,12 +13,15 @@ body{
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-.headerP-title{
+.headerP-post h1{
     font-size: 2em;
 }
-.headerP-parra{
+.headerP-post__parra1{
     font-size: 1.6em;
 }
-.headerP .headerP-parra1{
+.headerP-post__parra2{
+    font-size: 1.6em;
+}
+.headerP .headerP-title p{
     font-size: 1.6em;
 }
