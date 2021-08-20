@@ -13,9 +13,12 @@ body{
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-.headerP-title{
+.headerP-post h1{
     font-size: 2em;
 }
-.headerP-parra{
+.headerP-post p{
+    font-size: 1.6em;
+}
+.headerP-title p{
     font-size: 1.6em;
 }
