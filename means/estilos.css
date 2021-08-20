@@ -16,13 +16,13 @@ body{
 .headerP-post h1{
     font-size: 2em;
 }
-.headerP-post{
-    padding: 1em;
-}
 .headerP-post__parra{
     font-size: 1.6em;
 }
-.headerP-title p{
+.headerP-post{
+    padding: 1em;
+}
+.headerP .headerP-title p{
     font-size: 1.6em;
     font-weight: bold;
     box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
