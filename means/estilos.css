@@ -19,7 +19,7 @@ body{
 .headerP-post{
     padding: 1em;
 }
-.headerP-post p{
+.headerP-post__parra{
     font-size: 1.6em;
 }
 .headerP-title p{
