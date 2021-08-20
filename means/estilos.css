@@ -8,7 +8,7 @@ body{
 }
 .headerP{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -16,9 +16,23 @@ body{
 .headerP-post h1{
     font-size: 2em;
 }
+.headerP-post{
+    padding: 1em;
+}
 .headerP-post p{
     font-size: 1.6em;
 }
 .headerP-title p{
     font-size: 1.6em;
+    font-weight: bold;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
+    background: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
+.headerP .headerP-title .tagline{
+    font-size: 0.8em;
+    font-weight: normal;
+    margin: 0 0 0 1em;
 }
